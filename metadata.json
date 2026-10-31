@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard UAP Observatory",
+  "description": "Deep-scan YouTube intelligence platform for UFO, UAP, and Non-Human Intelligence video evidence featuring an interactive RunBot analyst dialog and automated dossier report generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
